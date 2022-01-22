@@ -443,7 +443,7 @@ section .title::after{
 
 /* blog section styling */
 .blog .title::after{
-    content: "who i am";
+    content: "posts on Computer Technologies";
 }
 .blog .about-content .left{
     width: 45%;

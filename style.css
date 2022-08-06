@@ -538,13 +538,13 @@ section .title::after{
 }
 /* footer section styling */
 footer{
-    background: #eab676;
+    background: #154c79;
     padding: 15px 23px;
     color: #fff;
     text-align: center;
 }
 footer span a{
-    color: crimson;
+    color: rgb(21,76,121);
     text-decoration: none;
 }
 footer span a:hover{

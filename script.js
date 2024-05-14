@@ -36,14 +36,14 @@ $(document).ready(function(){
     // typing text animation script
     var typed = new Typed(".typing", {
         strings: ["Student", "Photographer", "Full-Stack Developer", "UI/UX Designer", "Application Development",],
-        typeSpeed: 100,
-        backSpeed: 60,
+        typeSpeed: 120,
+        backSpeed: 40,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
         strings: ["Student", "Photographer", "Full-Stack Developer", "UI/UX Designer", "Application Development",],
-        typeSpeed: 100,
+        typeSpeed: 120,
         backSpeed: 40,
         loop: true
     });
